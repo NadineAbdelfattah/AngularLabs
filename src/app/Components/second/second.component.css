@@ -1,0 +1,12 @@
+img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    margin-left: 100px;
+}
+div{
+    justify-content: center;
+}
+input[type=button]{
+    margin: 15px;
+}
